@@ -1,2 +1,2 @@
 # Datashare
-Software which helps to communicate with other fellow members, to send files to each team member.
+Software which helps to send files and to communicate with team members.
