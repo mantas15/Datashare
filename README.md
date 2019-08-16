@@ -1,2 +1,2 @@
 # Datashare
-Software which helps to send files and to communicate with team members.
+A Windows App which provides file transfer and chat abilities.
